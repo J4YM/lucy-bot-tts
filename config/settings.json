@@ -1,7 +1,7 @@
 {
-  "token": process.env.token,
+  "token": "1234567890",
   "prefix": "+",
-  "owner_id": "727896522284466281",
+  "owner_id": "1234567890",
   "owner_reporting": true,
   "presence_refresh_interval": 1000000,
   "disconnect_timeout": 600000
